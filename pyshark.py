@@ -8,3 +8,7 @@ time = 86399
 capture = pyshark.LiveCapture(interface="en0", output_file=file)
 capture.sniff(timeout=time)
 output.close()
+
+# abc
+#uhdfijg
+#hello
