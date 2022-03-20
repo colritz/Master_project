@@ -33,6 +33,9 @@ def homepage():
     st.title('Analysed data')
     st.write('xxx')
  
+
+if __name__ == "__main__":
+    main()
     
     
     
