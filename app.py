@@ -11,24 +11,24 @@ def main():
 
     #Second Page
     elif page == "raw data":
-        analyseddata()
+        rawdata()
     
     #Third Page
     elif page == "analysed data":
-        information()
+        analyseddata()
         
 def homepage():
     
     st.title('Project')
     st.write('xxxx')
  
-def homepage():
+def rawdata():
     
     st.title('Raw data')
     st.write('xx')
  
     
-def homepage():
+def analyseddata():
     
     st.title('Analysed data')
     st.write('xxx')
